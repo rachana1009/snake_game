@@ -16,18 +16,18 @@ The motivation behind creating the Snake Game project is to offer a fun and enga
 <table width="100%">
   <tbody>
     <tr>
-      <td width="1%" height="600px"><img height= "500"src="https://github.com/rachana1009/snake_game/assets/71558587/eba7a6d0-de8b-4207-9d24-9e6d45df993c.png"/></td>
-      <td width="1%" height="600px"><img height= "500" src="https://user-images.githubusercontent.com/72693509/222979330-2130afa4-ac0e-4e47-b35e-710d1d7117a5.jpg"/></td>
-       <td width="1%" height="600px"><img height= "500" src="https://user-images.githubusercontent.com/72693509/222979333-8e07f636-c3dc-4e49-8755-40180b6c1e90.jpg"/></td>
+      <td width="4%" height="800px"><img height= "700"src="https://github.com/rachana1009/snake_game/assets/71558587/eba7a6d0-de8b-4207-9d24-9e6d45df993c.png"/></td>
+      <td width="4%" height="800px"><img height= "700" src="https://github.com/rachana1009/snake_game/assets/71558587/43b372b8-8705-406f-8c04-3bfea6239d3e.png"/></td>
+       <td width="4%" height="800px"><img height= "700" src="https://github-production-user-asset-6210df.s3.amazonaws.com/71558587/279666422-1382ea37-365c-48c6-9b5d-488ffc3d26ef.png"/></td>
     </tr>
     <tr></tr>
     <tr>
-      <td width="1%" height="600px"><img height= "500" src="https://user-images.githubusercontent.com/72693509/222979579-97015b71-c876-4087-8142-141fbe6c12b0.jpg"/></td>
-      <td width="1%" height="600px"><img  height= "500" src="https://user-images.githubusercontent.com/72693509/222979581-a3eee1fa-e36d-4a3c-ae3a-65129338f6e4.png"/></td>
-       <td width="1%" height="600px"><img height= "500" src="https://user-images.githubusercontent.com/72693509/222979588-b2ff689c-b808-4660-8187-76c4b3acf4f9.jpg"/></td>
+      <td width="1%" height="600px"><img height= "500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/71558587/279666440-a090d207-827b-47c9-b9e8-819853f4b36b.png"/></td>
+      <td width="1%" height="600px"><img  height= "500" src="https://github.com/rachana1009/snake_game/assets/71558587/12610523-43b8-4cd1-b422-9e98012b5ccc.png"/></td>
+       <td width="1%" height="600px"><img height= "500" src="https://github.com/rachana1009/snake_game/assets/71558587/faada831-ac23-49b5-96e2-8a078c820ed3.png"/></td>
     </tr>
     <tr>
-      <td width="1%" height="600px"><img height= "500" src="https://user-images.githubusercontent.com/72693509/222979337-1a63ab31-2bb1-4474-b965-b809dc27f4af.jpg"/></td>
+      <td width="1%" height="600px"><img height= "500" src="https://github.com/rachana1009/snake_game/assets/71558587/7b33eeab-0d7e-49de-9e23-dc526af6bf28.png"/></td>
       <td width="1%" height="600px"><img height= "500" src="https://user-images.githubusercontent.com/72693509/222979797-8ea23bb4-50b2-4f6e-887b-5789aee2593e.jpg"/></td>
        <td width="1%" height="600px"><img height= "500" src="https://user-images.githubusercontent.com/72693509/222980082-38251ece-54f6-4b64-84a7-0b8b7dc9ddb5.jpg"/></td>
     </tr>
