@@ -18,10 +18,11 @@ The motivation behind creating the Snake Game project is to offer a fun and enga
     <tr>
       <td width="4%" height="800px"><img height= "700"src="https://github.com/rachana1009/snake_game/assets/71558587/eba7a6d0-de8b-4207-9d24-9e6d45df993c.png"/></td>
       <td width="4%" height="800px"><img height= "700" src="https://github.com/rachana1009/snake_game/assets/71558587/43b372b8-8705-406f-8c04-3bfea6239d3e.png"/></td>
-       <td width="4%" height="800px"><img height= "700" src="https://github-production-user-asset-6210df.s3.amazonaws.com/71558587/279666422-1382ea37-365c-48c6-9b5d-488ffc3d26ef.png"/></td>
+       
     </tr>
     <tr></tr>
     <tr>
+    <td width="4%" height="800px"><img height= "700" src="https://github-production-user-asset-6210df.s3.amazonaws.com/71558587/279666422-1382ea37-365c-48c6-9b5d-488ffc3d26ef.png"/></td>
       <td width="1%" height="600px"><img height= "500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/71558587/279666440-a090d207-827b-47c9-b9e8-819853f4b36b.png"/></td>
       <td width="1%" height="600px"><img  height= "500" src="https://github.com/rachana1009/snake_game/assets/71558587/12610523-43b8-4cd1-b422-9e98012b5ccc.png"/></td>
        <td width="1%" height="600px"><img height= "500" src="https://github.com/rachana1009/snake_game/assets/71558587/faada831-ac23-49b5-96e2-8a078c820ed3.png"/></td>
